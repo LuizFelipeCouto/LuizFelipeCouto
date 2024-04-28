@@ -6,6 +6,8 @@ Sou um entusiasta da programação em busca de oportunidades para aprender e con
 ## 🌱 Atualmente, estou aprendendo
 
 - Desenvolvimento web com foco em HTML, CSS e JavaScript.
+- Desenvolvimento Java.
+- Aprendendo a base de Lógica de Progamação em Portugol.
 - Utilizando Git e GitHub para controle de versão e colaboração em projetos.
 - Melhorando minhas habilidades em resolução de problemas e algoritmos.
 
