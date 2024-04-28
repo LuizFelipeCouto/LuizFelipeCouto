@@ -1,20 +1,19 @@
-# Hello world!
-## Olá, eu sou o Luiz Felipe! 👋
+# Hello, world!
+## My name is Luiz Felipe! 👋
 
 Sou um entusiasta da programação em busca de oportunidades para aprender e contribuir.
 
 ## 🌱 Atualmente, estou aprendendo
 
-- Desenvolvimento web com foco em HTML, CSS e JavaScript.
-- Desenvolvimento Java.
-- Aprendendo a base de Lógica de Progamação em Portugol.
-- Utilizando Git e GitHub para controle de versão e colaboração em projetos.
-- Melhorando minhas habilidades em resolução de problemas e algoritmos.
+- Desenvolvimento web com foco em HTML, CSS, Java e JavaScript.
+- Base de Lógica de Progamação em Portugol.
+- Git e GitHub para controle de versão e colaboração em projetos.
+- Aprimoramento de habilidades em resolução de problemas e algoritmos.
 
 ## 📚 Recursos Favoritos
-- Cursando: Tecnólogo em Análise e Desenvolvimento de Sistemas - Descomplica.
-- Curso: Git e Github pela Dio.me.
-- Curso: Curso em Vídeo, pelo professor Gustavo Guanabara.
+- Graduando: Tecnólogo em Análise e Desenvolvimento de Sistemas - Descomplica.
+- Cursando: Git e Github pela Dio.me.
+- Cursando: Curso em Vídeo, pelo professor Gustavo Guanabara.
 
 ## 📫 Como entrar em contato
 
