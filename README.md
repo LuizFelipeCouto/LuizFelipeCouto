@@ -1,5 +1,5 @@
 # Hello world!
-## Olá, eu sou Luiz Felipe 👋
+## Olá, eu sou o Luiz Felipe! 👋
 
 Sou um entusiasta da programação em busca de oportunidades para aprender e contribuir.
 
@@ -12,9 +12,9 @@ Sou um entusiasta da programação em busca de oportunidades para aprender e con
 - Melhorando minhas habilidades em resolução de problemas e algoritmos.
 
 ## 📚 Recursos Favoritos
-- cursando tecnólogo em Análise e Desenvolvimento de Sistemas na Descomplica.
-- curso: Git e Github pela Dio.me.
-- Curso: Curso em Vídeo, do professor Gustavo Guanabara.
+- Cursando: Tecnólogo em Análise e Desenvolvimento de Sistemas - Descomplica.
+- Curso: Git e Github pela Dio.me.
+- Curso: Curso em Vídeo, pelo professor Gustavo Guanabara.
 
 ## 📫 Como entrar em contato
 
