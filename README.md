@@ -13,7 +13,9 @@ Sou um entusiasta da programação em busca de oportunidades para aprender e con
 ## 📚 Recursos Favoritos
 - Graduando: Tecnólogo em Análise e Desenvolvimento de Sistemas - Descomplica.
 - Cursando: Git e Github pela Dio.me.
+- Cursando: Bootcamp Cibersegurança pela Dio.me
 - Cursando: Curso em Vídeo, pelo professor Gustavo Guanabara.
+
 
 ## 📫 Como entrar em contato
 <div> 
