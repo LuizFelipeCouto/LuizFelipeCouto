@@ -1,5 +1,6 @@
 <img src="https://github.com/LuizFelipeCouto/LuizFelipeCouto/blob/main/lineBar.png" width="100%" height="8px"/>
 
+
 # Hello, world!
 ## My name is Luiz Felipe! 👋
 
@@ -26,5 +27,6 @@ Sou um entusiasta da programação em busca de oportunidades para aprender e con
   <a href="(https://www.linkedin.com/in/luiz-felipe-aparecido-do-couto-12080315a)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
 
 <img src="https://github.com/LuizFelipeCouto/LuizFelipeCouto/blob/main/lineBar.png" width="100%" height="8px"/>
