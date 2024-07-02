@@ -1,4 +1,4 @@
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+<img src="https://github.com/LuizFelipeCouto/LuizFelipeCouto/blob/main/lineBar.png" width="100%" height="8px"/>
 
 # Hello, world!
 ## My name is Luiz Felipe! 👋
@@ -27,4 +27,4 @@ Sou um entusiasta da programação em busca de oportunidades para aprender e con
   
 </div>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+<img src="https://github.com/LuizFelipeCouto/LuizFelipeCouto/blob/main/lineBar.png" width="100%" height="8px"/>
