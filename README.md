@@ -1,5 +1,6 @@
 <img src="https://github.com/LuizFelipeCouto/LuizFelipeCouto/blob/main/lineBar.png" width="100%" height="8px"/>
 
+<img src="https://github.com/LuizFelipeCouto/LuizFelipeCouto/blob/main/Wallpaper.gif">
 
 # Hello, world!
 ## My name is Luiz Felipe! 👋
