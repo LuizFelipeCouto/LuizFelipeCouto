@@ -13,21 +13,24 @@
   
 </div>
 
-Sou um entusiasta da programação em busca de oportunidades para aprender e contribuir.
+👨‍💻 Desenvolvedor iOS | Especializado em Swift, SwiftUI e UIKit.
 
-## 🌱 Atualmente, estou aprendendo
+Olá, sou Luiz Felipe, um entusiasta da tecnologia de 22 anos com base em Belo Horizonte. Como desenvolvedor mobile, estou focado em criar soluções eficientes e inovadoras para o ecossistema iOS. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Newton Paiva, com foco em desenvolvimento de aplicativos nativos para iPhone e iPad.
 
-- Desenvolvimento web com foco em HTML, CSS, e JavaScript.
-- Aprendendo algoritmo em Java e Python.
-- Base de Lógica de Progamação em Portugol.
-- Git e GitHub para controle de versão e colaboração em projetos.
-- Aprimoramento de habilidades em resolução de problemas e algoritmos.
+🛠️ Skills Técnicas: Minhas competências técnicas incluem:
 
-## 📚 Recursos Favoritos
-- Graduando: Tecnólogo em Análise e Desenvolvimento de Sistemas - Descomplica.
-- Certificado: Git e Github pela Dio.me.
-- Cursando: Formação JavaScript Developer
+	•	Programação Orientada a Objetos (OOP): Experiência em desenvolver aplicações eficientes e escaláveis utilizando princípios sólidos de OOP, aplicados no desenvolvimento iOS.
+	•	Swift & SwiftUI: Domínio no desenvolvimento de aplicativos nativos com Swift e SwiftUI, criando interfaces fluidas e responsivas.
+	•	Xcode & Ferramentas iOS: Experiência no uso do Xcode como principal ambiente de desenvolvimento, além do uso de ferramentas nativas da Apple, como CoreData, UIKit, e AVFoundation.
+	•	Git & GitHub: Conhecimento em controle de versão, com curso concluído em Git e GitHub, facilitando a colaboração e o gerenciamento de código em projetos iOS.
+	•	Experiência do Usuário (UX): Estudo contínuo em design de experiências interativas e intuitivas para os usuários, criando aplicativos que aliam estética e funcionalidade.
+	•	Publicação na App Store: Conhecimento dos processos de submissão de apps na App Store e de como otimizar para aceitação e melhor performance.
 
+🚀 Experiência em Conteúdo: Além do desenvolvimento, estou me aprofundando em cursos especializados, como o desenvolvimento de aplicativos iOS e novos frameworks da Apple.
+
+Embora ainda não tenha experiência profissional, estou buscando ativamente oportunidades onde possa aplicar e expandir minhas habilidades em um ambiente de desenvolvimento iOS real.
+
+🔗 Fique à vontade para entrar em contato comigo para uma conversa produtiva.
 ## 📫 Como entrar em contato
 <div> 
   <a href="https://www.instagram.com/felipecouto_0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
