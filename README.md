@@ -34,8 +34,8 @@ Embora ainda não tenha experiência profissional, estou buscando ativamente opo
 ## 📫 Como entrar em contato
 <div> 
   <a href="https://www.instagram.com/felipecouto_0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="luisfelipeaparecido880@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="(https://www.linkedin.com/in/luiz-felipe-aparecido-do-couto-12080315a)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="lfelipe.dev@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitestyle=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="(http://linkedin.com/in/luiz-felipe-ios)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
